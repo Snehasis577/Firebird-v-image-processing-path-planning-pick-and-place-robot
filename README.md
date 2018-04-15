@@ -7,13 +7,9 @@ of arena image aqusition, image processing in python, detecting obstacles, detec
 components used:-
 
 -Firebird v robot
-
 -xbee wireless module
-
 -intex webcam
 
-Softwares used 
-
+Softwares used :-
 -atmel studio
-
 -python with opencv, numpy and serial library
